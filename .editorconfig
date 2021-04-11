@@ -1,0 +1,3 @@
+[*.d]
+max_line_length = 80
+dfmt_soft_max_line_length = 80

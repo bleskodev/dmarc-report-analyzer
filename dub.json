@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"bleskodev"
+	],
+	"copyright": "Copyright © 2021, bleskodev",
+	"dependencies": {
+		"dxml": "~>0.4.3"
+	},
+	"description": "Quickly analyze DMARC reports if they contain any errors.",
+	"license": "free",
+	"name": "dmarc-report-analyzer"
+}

@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dmarc-report-analyzer
+dmarc-report-analyzer.so
+dmarc-report-analyzer.dylib
+dmarc-report-analyzer.dll
+dmarc-report-analyzer.a
+dmarc-report-analyzer.lib
+dmarc-report-analyzer-test-*
+*.exe
+*.o
+*.obj
+*.lst
+dub.selections.json
